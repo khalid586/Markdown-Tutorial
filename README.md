@@ -57,9 +57,12 @@ Unordered List
 ```
 [Done with Triple quote]
 
-int a = 10 
+int a = 10 ;
+int b = 20;
 
-hello
+int sum = a + b;
+cout << sum << '\n';
+
 ```
 
 [visit my github profile](https://github.com/khalid586) 
