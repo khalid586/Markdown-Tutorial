@@ -28,6 +28,29 @@ Tables
 |khalid|1111030|
 
 
+<p align = "center"><b> Ordered list </b> </p>
+
+1. one
+    1. one
+    1. two
+    1. three
+    1. four
+
+1. two
+    1. one
+    1. two
+
+1. three
+    1. one
+    1. two
+    3. three
+
+Unordered List
+-   one
+-   two
+-   three
+
+
 
 `single quote`
 
